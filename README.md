@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobalvarad0&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobalvarad0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
